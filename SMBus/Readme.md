@@ -7,4 +7,6 @@ Components Required:
 4. Slave devices with same address x 2
 
 Connections:
+Use the following diagram for connections.
+
 ![k2Iyt](https://github.com/user-attachments/assets/77a8b5ba-c2e7-4607-b6af-9f43e09954ae)
