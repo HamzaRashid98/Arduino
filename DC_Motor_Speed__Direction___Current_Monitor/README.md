@@ -10,5 +10,6 @@ Components required:
 7. Breadboard.
 
 Connection:
-![Screenshot 2024-09-30 104147](https://github.com/user-attachments/assets/1119f63a-8828-4d01-98d5-0af64dec768a)
+![Screenshot 2024-09-30 104653](https://github.com/user-attachments/assets/1c4c950e-a961-4fa2-8209-fd487e0f2ea0)
+
 
